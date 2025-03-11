@@ -10,7 +10,7 @@ After training the model, I put it to the test, and the results were surprisingl
  <a href='https://www.linkedin.com/posts/vicky-mahendra_ai-machinelearning-computervision-activity-7303244051758125058-WDIE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA22ZGsB07bcQXKAvnxVxLqG1pC2UisdUIY'>read more on my Linkedin</a>
 
 
-# Screenshot
+# Video
 https://github.com/user-attachments/assets/08f08045-42bf-463e-a0db-8de06d4ee12b
 
 
